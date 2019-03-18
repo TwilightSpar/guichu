@@ -1,2 +1,0 @@
-# guichu
-introduction about guichu
